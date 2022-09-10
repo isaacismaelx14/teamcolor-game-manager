@@ -1,0 +1,5 @@
+{
+  "route": {
+    "minecraft": "%appdata%\\.minecraft"
+  }
+}
